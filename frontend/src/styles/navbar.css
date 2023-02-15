@@ -1,0 +1,72 @@
+.MuiContainer-root,
+.MuiContainer-maxWidthXl,
+.css-19r6kue-MuiContainer-root {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root, .container-box-x {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background-color: rgba(0, 0, 0, 0.41) !important;
+  height: 5rem !important;
+  transition: 0.2s !important;
+  position: fixed !important;
+  box-shadow: 0px 1px 10px black !important;
+  z-index: 100;
+}
+
+.css-1lvtzne {
+  width: 2rem !important;
+}
+.order-0{
+  width: 20%;
+}
+
+@media (max-width: 900px) {
+  .mui-image-img {
+    width: 5rem !important;
+  }
+  .order-0{
+    width: 4rem;
+  }
+}
+
+.mui-image-wrapper {
+  width: 8rem !important;
+}
+
+.css-1q39md6-MuiButtonBase-root-MuiButton-root {
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.css-1t6c9ts {
+  justify-content: center !important;
+}
+
+.css-1q39md6-MuiButtonBase-root-MuiButton-root {
+  margin-inline: 2.5rem !important;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1) !important;
+}
+
+.MuiList-root {
+  background-color: rgba(19, 85, 45, 0.8);
+  color: rgb(255, 255, 255);
+}
+
+.iconLeaf {
+  color: rgb(46, 206, 14) !important;
+}
+
+.css-bz778c-MuiSvgIcon-root {
+  margin-left: 0 !important;
+}
+
+.loguito {
+  width: 4rem !important;
+}
+
+.mui-image-wrapper {
+  width: 4rem !important;
+}

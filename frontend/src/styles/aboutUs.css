@@ -1,0 +1,21 @@
+.fondoImagen {
+  background-image: url("../assets/aboutUsImage.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.fondoImagen2 {
+  background-image: url("../assets/aboutUsImage.jpg");
+  height: fit-content;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 40px
+}
+
+.css-1m8vnsh-MuiImageList-root {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}

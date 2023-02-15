@@ -1,0 +1,22 @@
+.fullname {
+    width: 48% !important;
+}
+
+.card-register {
+    width: 60% !important;
+}
+
+@media (width < 550px) {
+    .card-register {
+        width: 100% !important;
+    }
+}
+
+@media (width < 640px) {
+    .fullname {
+        width: 100% !important;
+    }
+    .nameDiv {
+        flex-wrap: wrap;
+    }
+}
