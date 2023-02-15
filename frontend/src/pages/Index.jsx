@@ -332,17 +332,8 @@ export default function Index() {
             </Typography>
           </div>
         </div>
-        <div className="line2">
-          <div className="line2A">
-            <div className="line2A-A"></div>
-          </div>
-          <div className="lineBtn">
-            <h3 variant="contained" className="sustainable">
-              Sustainable
-            </h3>
-          </div>
-        </div>
-        <div className="separator"></div>
+
+        {/* <div className="separator"></div> */}
         <div className="line3">
           <div className="lineBtn">
             <h3 variant="contained" className="sustainable">
